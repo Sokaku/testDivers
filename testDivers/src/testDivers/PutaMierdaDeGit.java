@@ -8,13 +8,11 @@ package testDivers;
 //* AGREEMENTS WITH T-SYSTEMS, DEBIS SYSTEMHAUS.                              *
 // ****************************************************************************
 
-public class MainTestDives {
+public class PutaMierdaDeGit {
 
-   public static void main(String[] args) {
-      // TODO Auto-generated method stub
-      SonClass sc = new SonClass();
-      System.out.print("XXXpene OLOROSOXXX");
-      System.out.print("XXXVAGINA OLOROSAXXX");
+   public PutaMierdaDeGit() {
+      // TODO Auto-generated constructor stub
+      System.out.print("Gora MIS COJONES");
    }
 
 }
