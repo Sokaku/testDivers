@@ -13,8 +13,7 @@ public class MainTestDives {
    public static void main(String[] args) {
       // TODO Auto-generated method stub
       SonClass sc = new SonClass();
-      System.out.print("XXXpene OLOROSOXXX");
-      System.out.print("XXXVAGINA OLOROSAXXX");
+      System.out.print("ESTUPOR MORENO");
    }
 
 }
