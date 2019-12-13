@@ -8,11 +8,11 @@ package testDivers;
 //* AGREEMENTS WITH T-SYSTEMS, DEBIS SYSTEMHAUS.                              *
 // ****************************************************************************
 
-public class MainTestDives {
+public class SonClass {
 
    public static void main(String[] args) {
       // TODO Auto-generated method stub
-      SonClass sc = new SonClass();
+      System.out.print("arranca");
    }
 
 }
